@@ -11,8 +11,7 @@ An interactive Power BI dashboard analyzing game genre trends across different g
 
 ## 📁 Files Included
 - `vgsales.csv`: Cleaned dataset of global game sales
-- `game-taste-map.pbix`: Power BI project file
-- `assets/`: Screenshots and mockups
+- `game.pbix`: Power BI project file
 
 ## 🖼️ Preview
 ![Dashboard Preview](assets/dashboard-preview.png)
