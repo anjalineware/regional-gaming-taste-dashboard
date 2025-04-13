@@ -14,7 +14,7 @@ An interactive Power BI dashboard analyzing game genre trends across different g
 - `game.pbix`: Power BI project file
 
 ## 🖼️ Preview
-![Dashboard Preview](assets/dashboard-preview.png)
+![Dashboard Preview](Screenshot.png)
 
 ## 🚀 How to Use
 1. Download the `.pbix` file
