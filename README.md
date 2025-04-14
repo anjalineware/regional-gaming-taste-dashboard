@@ -1,4 +1,4 @@
-# 🎮 Regional Game Taste Map (Power BI)
+# 🎮 Regional Game Taste (Power BI)
 
 An interactive Power BI dashboard analyzing game genre trends across different global regions (1980–2020).
 
